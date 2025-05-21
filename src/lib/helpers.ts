@@ -4,15 +4,7 @@ export const MainRoutes = [
         href : "/",
     },
     {
-        label : "Contact us",
-        href : "/contact",
-    },
-    {
-        label : "About us",
-        href : "/about",
-    },
-    {
-        label : "Services",
-        href : "/services",
+        label : "Resources",
+        href : "/resources",
     },
 ];
